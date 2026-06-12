@@ -20,33 +20,156 @@ Agile is an iterative and incremental approach to software development and proje
 
 Source file: [Agile-Manifesto.archimate](Agile-Manifesto.archimate)
 
-## Agile Frameworks
 
-Agile itself is a philosophy rather than a specific process. Several frameworks help organizations implement Agile practices effectively.
+# Agile Frameworks
 
-### Scrum
+Agile is a **philosophy and mindset** rather than a single methodology. Organizations implement Agile using various frameworks, each designed to address different project needs and team structures.
 
-The most widely used Agile framework. Work is organized into short iterations called sprints, supported by roles such as Product Owner, Scrum Master, and Development Team.
+## Overview of Agile Frameworks
 
-### Kanban
+| Framework | Primary Focus | Key Characteristics |
+|------------|--------------|---------------------|
+| **Scrum** | Iterative Development | Sprint-based development, defined roles, regular feedback cycles |
+| **Kanban** | Workflow Management | Visual task tracking, continuous delivery, work-in-progress limits |
+| **Extreme Programming (XP)** | Software Engineering Excellence | TDD, pair programming, continuous integration, refactoring |
+| **Lean Software Development** | Waste Reduction | Continuous improvement, value maximization, efficient delivery |
+| **SAFe (Scaled Agile Framework)** | Enterprise Agility | Agile practices scaled across multiple teams and departments |
+| **DevOps** | Development & Operations Collaboration | Automation, CI/CD, monitoring, rapid deployment |
 
-A workflow management framework that focuses on visualizing work, limiting work in progress, and improving delivery efficiency through continuous flow.
+---
 
-### Extreme Programming (XP)
+## 1. Scrum
 
-An Agile framework that emphasizes engineering best practices such as pair programming, test-driven development (TDD), continuous integration, and refactoring.
+**Scrum** is the most widely adopted Agile framework. Work is divided into fixed-length iterations known as **Sprints**, typically lasting 1–4 weeks.
 
-### Lean Software Development
+### Key Components
+- Product Owner
+- Scrum Master
+- Development Team
+- Product Backlog
+- Sprint Backlog
+- Sprint Review and Retrospective
 
-Focuses on maximizing value while minimizing waste through continuous improvement and efficient delivery processes.
+### Benefits
+- Faster delivery of features
+- Frequent stakeholder feedback
+- Better project visibility
+- Improved team collaboration
 
-### SAFe (Scaled Agile Framework)
+---
 
-Designed for large organizations, SAFe extends Agile practices across multiple teams and business units while maintaining strategic alignment.
+## 2. Kanban
 
-### DevOps
+**Kanban** is a workflow management framework focused on visualizing work and improving process efficiency through continuous delivery.
 
-Although not strictly an Agile framework, DevOps complements Agile by enabling continuous integration, continuous delivery, automation, monitoring, and collaboration between development and operations teams.
+### Key Principles
+- Visualize workflow using Kanban boards
+- Limit Work in Progress (WIP)
+- Manage flow continuously
+- Measure and optimize cycle time
+
+### Benefits
+- Increased transparency
+- Reduced bottlenecks
+- Flexible prioritization
+- Continuous delivery model
+
+---
+
+## 3. Extreme Programming (XP)
+
+**Extreme Programming (XP)** emphasizes software engineering best practices to improve code quality and responsiveness to changing requirements.
+
+### Core Practices
+- Pair Programming
+- Test-Driven Development (TDD)
+- Continuous Integration (CI)
+- Refactoring
+- Small Frequent Releases
+- Collective Code Ownership
+
+### Benefits
+- High-quality code
+- Reduced defects
+- Faster feedback cycles
+- Better maintainability
+
+---
+
+## 4. Lean Software Development
+
+Lean Software Development applies Lean manufacturing principles to software development.
+
+### Core Principles
+- Eliminate waste
+- Build quality into the process
+- Deliver quickly
+- Empower the team
+- Continuously improve
+
+### Benefits
+- Improved efficiency
+- Reduced development costs
+- Faster value delivery
+- Enhanced customer satisfaction
+
+---
+
+## 5. SAFe (Scaled Agile Framework)
+
+**SAFe** extends Agile principles to large enterprises where multiple teams must work together toward common business objectives.
+
+### Key Features
+- Program Increment (PI) Planning
+- Agile Release Trains (ARTs)
+- Portfolio Management
+- Cross-team coordination
+- Strategic alignment
+
+### Benefits
+- Enterprise-wide agility
+- Improved collaboration across teams
+- Better alignment with business goals
+- Scalable Agile implementation
+
+---
+
+## 6. DevOps
+
+Although **DevOps** is not strictly an Agile framework, it strongly complements Agile practices by integrating development and operations processes.
+
+### Core Practices
+- Continuous Integration (CI)
+- Continuous Delivery/Deployment (CD)
+- Infrastructure as Code (IaC)
+- Automated Testing
+- Monitoring and Logging
+- Collaboration between Development and Operations Teams
+
+### Benefits
+- Faster software releases
+- Improved system reliability
+- Increased automation
+- Reduced deployment risks
+
+---
+
+## Choosing the Right Framework
+
+| Scenario | Recommended Framework |
+|-----------|----------------------|
+| Small to Medium Development Teams | Scrum |
+| Continuous Workflows and Support Teams | Kanban |
+| High Code Quality Requirements | Extreme Programming (XP) |
+| Process Optimization and Efficiency | Lean |
+| Large Enterprises with Multiple Teams | SAFe |
+| Automated Delivery and Operations | DevOps |
+
+---
+
+## Key Takeaway
+
+Agile provides the **mindset**, while frameworks such as **Scrum**, **Kanban**, **XP**, **Lean**, **SAFe**, and **DevOps** provide the structure and practices needed to successfully implement Agile principles in different environments and organizational scales.
 
 ## Why ArchiMate?
 

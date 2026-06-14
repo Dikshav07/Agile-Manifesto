@@ -173,7 +173,7 @@ Agile provides the **mindset**, while frameworks such as **Scrum**, **Kanban**, 
 
 ## Why ArchiMate?
 
-ArchiMate is a standardized enterprise architecture modeling language developed by The Open Group. It provides a consistent way to visualize relationships among business processes, stakeholders, applications, and technology components.
+It's a standardized enterprise architecture modeling language developed by The Open Group. It provides a consistent way to visualize relationships among business processes, stakeholders, applications, and technology components.
 
 While Agile is typically presented through textual values and principles, ArchiMate enables these concepts to be represented visually. This helps stakeholders understand how Agile practices influence organizational structures, development workflows, and business objectives.
 

@@ -404,3 +404,32 @@ The following Agile artifacts were maintained throughout the project:
 - **Sprint Backlog** for defining iteration-specific goals and deliverables.
 - **Incremental Deliverables** produced at the end of each sprint.
 - **Backlog Refinement** performed during research and documentation updates.
+
+
+### Agile Ceremonies
+
+The project followed Agile-inspired ceremonies and workflows:
+
+- **Sprint Planning** to define sprint objectives and deliverables.
+- **Daily Progress Tracking** using Git commit history and task updates.
+- **Sprint Reviews** after completion of major architecture models.
+- **Sprint Retrospectives** to identify opportunities for improving documentation and modeling quality.
+
+### Continuous Improvement
+
+Continuous improvement practices were applied throughout the project:
+
+- Iteratively refined ArchiMate diagrams based on reviews.
+- Enhanced documentation quality after each development cycle.
+- Improved model traceability and consistency through incremental updates.
+- Incorporated lessons learned into subsequent iterations.
+
+### Version Control and Workflow Management
+
+Git-based workflows were used to support Agile development practices:
+
+- Incremental commits for tracking project progress.
+- Feature-based development and updates.
+- Change history management and rollback capability.
+- Structured repository organization and documentation maintenance.
+

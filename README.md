@@ -377,3 +377,30 @@ The following resources provide an introduction to ArchiMate and enterprise arch
 7. Apply ArchiMate to model Agile principles, business goals, and technical processes.
 
 > Following this learning path helps bridge the gap between Agile software development practices and Enterprise Architecture modeling, enabling a deeper understanding of how business objectives translate into technical implementation.
+
+
+
+## Agile Practices Applied in This Project
+
+While this project focuses on modeling the Agile Manifesto using ArchiMate, Agile principles were also applied throughout the project's development lifecycle to ensure iterative development, continuous feedback, and incremental delivery.
+
+### Sprint-Based Development
+
+The project was developed in multiple iterations, with each sprint focusing on a specific deliverable.
+
+| Sprint | Deliverable |
+|---------|------------|
+| Sprint 1 | Agile Manifesto ArchiMate Model |
+| Sprint 2 | 12 Agile Principles Architecture Model |
+| Sprint 3 | Documentation and Framework Research |
+| Sprint 4 | SDLC and Agile Framework Integration |
+| Sprint 5 | Repository Refinement and Final Review |
+
+### Agile Artifacts
+
+The following Agile artifacts were maintained throughout the project:
+
+- **Product Backlog** for tracking architecture modeling tasks and documentation requirements.
+- **Sprint Backlog** for defining iteration-specific goals and deliverables.
+- **Incremental Deliverables** produced at the end of each sprint.
+- **Backlog Refinement** performed during research and documentation updates.
